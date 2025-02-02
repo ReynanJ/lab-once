@@ -10,21 +10,6 @@
     list-style: none;
 }
 
-/* My special greetings for you Ma'am Hehe */
-.greeting {
-    margin-top: 50px;
-    text-align: center;
-    cursor: pointer;
-    overflow: hidden;
-    display: inline-block;
-    padding: 10px 20px;
-    font-size: 20px;
-    border-radius: 5px;
-    transform-origin: center;
-    animation: scaleUp 4s ease-in-out infinite, sparkle 3s infinite alternate;
-    width: 100%;
-}
-
 /* Animation for scaling */
 @keyframes scaleUp {
     0% {
